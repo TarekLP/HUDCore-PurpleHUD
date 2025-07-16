@@ -28,16 +28,16 @@
     ],
     "engine_packaging_command": "BuildCookRun",
     "override_automatic_version_finding": false,
-    "unreal_engine_dir": "C:/Program Files/Epic Games/UE_4.27",
+    "unreal_engine_dir": "E:/Games/Epic Games Installs/UE_4.27",
     "unreal_engine_major_version": "4",
     "unreal_engine_minor_version": "27",
-    "unreal_project_file": "F:/PAYDAYMODS/Tools/PD3-Modkit/PD3-HUDCore/PAYDAY3.uproject"
+    "unreal_project_file": "E:/GitHub/HUDCore-PurpleHUD/PAYDAY3.uproject"
   },
   "exec_events": [],
   "game_info": {
-    "game_exe_path": "E:/SteamLibrary/steamapps/common/PAYDAY3/PAYDAY3/Binaries/Win64/PAYDAY3Client-Win64-Shipping.exe",
+    "game_exe_path": "F:/XboxGames/Payday 3/Content/PAYDAY3/Binaries/WinGDK/PAYDAY3Client-WinGDK-Shipping.exe",
     "game_id": 1272080,
-    "game_launcher_exe": "C:/Games/Steam/steam.exe",
+    "game_launcher_exe": "F:/XboxGames/Payday 3/Content/gamelaunchhelper.exe",
     "launch_params": [
       ""
     ],
@@ -53,7 +53,7 @@
   },
   "git_info": {
     "repo_branch": "main",
-    "repo_path": "F:/PAYDAYMODS/Tools/PD3-Modkit/PD3-HUDCore"
+    "repo_path": "E:/GitHub/HUDCore-PurpleHUD"
   },
   "mods_info": [
     {
@@ -75,12 +75,12 @@
     {
       "compression_type": "Zlib",
       "file_includes": {
-        "asset_paths": ["/Content/Mods/HUDs/Data/DA_TemplateHUD"],
-        "tree_paths": ["/Content/Mods/HUDs/TemplateHUD/"],
+        "asset_paths": [""],
+        "tree_paths": ["/Content/Mods/HUDs/"],
         "unreal_collections": []
       },
       "is_enabled": true,
-      "mod_name": "TemplateHUD_P",
+      "mod_name": "PurpleHUD_P",
       "mod_name_dir_name_override": null,
       "mod_name_dir_type": "Mods",
       "packing_type": "repak",
@@ -111,7 +111,7 @@
   "repak_info": {
     "override_automatic_version_finding": false,
     "override_default_repak_path": false,
-    "repak_path_override": "F:/PAYDAYMODS/Repak/repak.exe",
+    "repak_path_override": "C:/Program Files/repak_cli/bin/repak.exe",
     "repak_version": null
   },
   "retoc_info": {

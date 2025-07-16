@@ -21,10 +21,10 @@
 		}
 	],
 	"Plugins": [
-    {
-      "Name": "Wwise",
-      "Enabled": true
-    },
+		{
+			"Name": "Wwise",
+			"Enabled": true
+		},
 		{
 			"Name": "PlatformCrypto",
 			"Enabled": true
@@ -152,8 +152,7 @@
 		},
 		{
 			"Name": "MfMedia",
-			"Enabled": false,
-			"BlacklistPlatforms": []
+			"Enabled": false
 		},
 		{
 			"Name": "Niagara",
@@ -497,6 +496,11 @@
 		{
 			"Name": "ChaosCloth",
 			"Enabled": false
+		},
+		{
+			"Name": "FlatNodes",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/b719437f3fb54c259b34227363df8cab"
 		}
 	],
 	"TargetPlatforms": [
